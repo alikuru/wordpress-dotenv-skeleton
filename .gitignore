@@ -1,0 +1,7 @@
+/shared
+/content/upgrade/
+/vendor
+/logs
+.env
+.idea
+.DS_Store
